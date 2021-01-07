@@ -32,3 +32,21 @@ switch (age) {
         console.log(`Vous avez plus de 18 ans`);
         break;
 }
+
+
+/ let age = parseInt(prompt('Entrez votre âge?'));
+
+// switch (isNaN(age)) {
+//     case true:
+//         console.log(`Error n'est pas un nombre`);
+//         break;
+//     case false:
+//         switch (age >=18 ) {
+//             case true:
+//                 console.log("Il a plus de 18ans");
+//                 break;
+//             case false:
+//                 console.log("ll a moins de 18ans");
+//         }
+//         break;
+// }
